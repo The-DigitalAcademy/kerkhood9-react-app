@@ -4,9 +4,9 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-   <h1>shop mall</h1>
+   <h1 style="background-color:DodgerBlue;">shop mall</h1>
    
-   <button style="submit">submit</button>
+  
     </div>
   );
 }
