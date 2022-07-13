@@ -4,7 +4,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-   <h1>shop mall</h1>
+
+<nav bg="primary" variant="dark"></nav>
    
   
     </div>
