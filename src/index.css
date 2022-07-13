@@ -1,3 +1,10 @@
+@media screen and (min-width: 48em) {
+  .headroom--not-top .navbar {
+      background: #4e608d;
+  }
+  }
+  
+
 * {
   box-sizing: border-box;
 } 
@@ -15,5 +22,6 @@ body {
 }
 
 .color {
-  background-color: #2916F5;
+  background-color: #2916F5
+  ;
 }
