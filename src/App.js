@@ -15,6 +15,10 @@ function App() {
 <br></br>
 
 <img src="https://avatars.githubusercontent.com/u/57489225?v=4" />
+
+<br></br>
+<br></br>
+khumbulani Ntuli
     </div>
   );
 }
