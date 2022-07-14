@@ -1,6 +1,5 @@
 import logo from './logo.svg';
-import shop from '../Pages/shop'
-import navbar from '../components/navbar'
+
 import './App.css';
 
 function App() {
@@ -15,7 +14,7 @@ function App() {
 
 <br></br>
 
-      
+<img src="https://avatars.githubusercontent.com/u/57489225?v=4" />
     </div>
   );
 }
