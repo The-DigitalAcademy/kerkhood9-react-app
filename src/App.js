@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+
 import './App.css';
 
 function App() {
@@ -6,7 +7,7 @@ function App() {
     <div className="App">
    <h1>shop mall</h1>
    
-  
+  navbar
     </div>
   );
 }
